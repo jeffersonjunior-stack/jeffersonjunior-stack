@@ -1,112 +1,104 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou Jefferson Junior!
-
-### 💻 Iniciante em programação | Em constante evolução
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Aprendendo-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Status: Aprendendo" />
-  <img src="https://img.shields.io/badge/Perfil-Desenvolvedor%20em%20forma%C3%A7%C3%A3o-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" alt="Desenvolvedor em formação" />
-</p>
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-- 👨‍💻 Estou começando minha jornada no mundo da programação.
-- 🌱 Estou aprendendo e desenvolvendo minhas habilidades técnicas.
-- 🎯 Meu objetivo é criar projetos, praticar e evoluir continuamente.
-- 📚 Acredito que cada projeto é uma oportunidade de aprender algo novo.
-- 🔎 Explore meus repositórios para acompanhar minha evolução!
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-*Adicione abaixo as tecnologias que você já conhece ou está estudando.*
-
-<!--
-Para adicionar uma tecnologia, copie um badge da seção
-de exemplos e cole aqui. Remova os exemplos que não se aplicam.
--->
-
-<!-- Exemplos de badges: descomente apenas os que correspondem
-     às tecnologias que você realmente utiliza ou estuda.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
--->
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeffersonjunior-stack&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&include_all_commits=true" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjunior-stack&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
-
-## 📈 Minha jornada
-
-Cada linha de código é mais um passo na minha evolução.
-
-- [ ] Aprender os fundamentos da programação
-- [ ] Desenvolver meus primeiros projetos
-- [ ] Aprender a usar Git e GitHub
-- [ ] Criar projetos para meu portfólio
-- [ ] Continuar evoluindo como desenvolvedor
-
-> A consistência é mais importante do que a velocidade. 🚀
-
----
-
-## 📌 Projetos em destaque
-
-*Adicione aqui seus projetos quando estiverem disponíveis.*
-
-<!--
-Quando tiver projetos, use este modelo:
-
-### 🔹 Nome do projeto
-Descrição breve do que o projeto faz e do que você aprendeu.
-
-[Ver repositório](https://github.com/jeffersonjunior-stack/NOME-DO-REPOSITORIO)
--->
-
----
-
-## 🤝 Vamos nos conectar?
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:38BDF8&height=200&section=header&text=JEFFERSON%20JUNIOR&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%" alt="Banner azul de Jefferson Junior" />
 
 <a href="https://github.com/jeffersonjunior-stack">
-  <img src="https://img.shields.io/badge/GitHub-jeffersonjunior--stack-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B;Aprendendo+JavaScript+%F0%9F%92%9B;Um+commit+de+cada+vez+%F0%9F%9A%80" alt="Animação de apresentação" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCO-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Foco em JavaScript" />
+<img src="https://img.shields.io/badge/STATUS-Evoluindo-0284C7?style=for-the-badge&logo=rocket&logoColor=white" alt="Em evolução" />
+
+<br/><br/>
+
+<a href="https://github.com/jeffersonjunior-stack?tab=repositories">
+  <img src="https://img.shields.io/badge/MEUS-PROJETOS-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Meus projetos" />
+</a>
+<a href="https://github.com/jeffersonjunior-stack">
+  <img src="https://img.shields.io/badge/MEU-PERFIL-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Meu perfil" />
 </a>
 
 </div>
 
 ---
 
+## 💠 `whoami` — Sobre mim
+
+```text
+Nome       : Jefferson Junior
+Perfil     : Iniciante em programação
+Linguagem  : JavaScript
+Mentalidade: Aprender, praticar e evoluir
+Objetivo   : Construir projetos e ganhar experiência
+Status     : Em constante desenvolvimento
+```
+
+- 👋 Olá! Seja bem-vindo ao meu perfil.
+- 🌱 Estou aprendendo programação e desenvolvendo minhas habilidades.
+- ⚡ Minha linguagem de foco é JavaScript.
+- 💻 Quero transformar meus estudos em projetos reais.
+- 🎯 Busco aprender algo novo a cada dia.
+- 🚀 Este perfil é o registro da minha evolução como desenvolvedor.
+
+---
+
+## ⚡ Minha tecnologia
+
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" height="80" />
 
-*Aprendendo hoje, evoluindo sempre.*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0969DA,100:58A6FF&height=100&section=footer" width="100%" alt="Rodapé azul" />
+<img src="https://img.shields.io/badge/JavaScript-Estudando-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript em estudo" />
+
+<br/><br/>
+
+**JavaScript — aprendendo, praticando e evoluindo.** 💛
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/jeffersonjunior-stack">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jeffersonjunior-stack&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&ring_color=38BDF8" alt="Estatísticas do GitHub" />
+</a>
+
+<a href="https://github.com/jeffersonjunior-stack">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonjunior-stack&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Linguagens mais utilizadas" />
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=jeffersonjunior-stack&theme=dark&hide_border=true&background=020617&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=94A3B8" alt="Sequência de contribuições no GitHub" width="90%" />
+
+</div>
+
+---
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/jeffersonjunior-stack">
+  <img src="https://img.shields.io/badge/GitHub-Jefferson%20Junior-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub de Jefferson Junior" />
+</a>
+
+<br/><br/>
+
+**Obrigado por visitar meu perfil! 💙**
+
+*Escrevendo código hoje. Construindo possibilidades para amanhã.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:020617&height=120&section=footer" width="100%" alt="Rodapé azul" />
 
 </div>
